@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="STS Payments Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/STS_Payments_Test_jar</output-path>
+    <root id="archive" name="STS Payments Test.jar">
+      <element id="module-output" name="STS Payments Test" />
+    </root>
+  </artifact>
+</component>
